@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+:root {
+  --primary-color: yellow;
+}
+
+body {
+  background-color: #F2F2F2;
+}
+
+body .navbar {
+  background-color: #F2F2F2;
+}
+
+body .navbar nav ul li {
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
